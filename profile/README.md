@@ -6,74 +6,72 @@
 
 ![image](https://github.com/user-attachments/assets/7c6988ac-03b4-4640-a302-c996630b451e)
 
-# Jerkflix APK: Streaming Gratuito para Android
+# Jerkflix APK: Free Streaming for Android
 
-## Informações do Aplicativo
-| **Nome do App**      | Jerkflix                     |
+## App Information
+| **App Name**         | Jerkflix                     |
 |----------------------|-----------------------------|
-| **Tamanho**          | 8.2 MB                     |
-| **Desenvolvedor**    | Jerkflix.net               |
-| **Compatibilidade**  | Android                    |
-| **Última Atualização** | 05 de Novembro de 2024    |
+| **Size**             | 8.2 MB                      |
+| **Developer**        | Jerkflix.net                |
+| **Compatibility**    | Android                     |
+| **Last Update**      | November 5, 2024            |
 
 ---
 
-## Introdução
-Se você era fã do **Dooflix**, prepare-se para conhecer o **Jerkflix APK**, o novo nome e interface da plataforma. Apesar da mudança, o Jerkflix continua sendo um aplicativo gratuito que traz filmes, séries e shows direto para seu dispositivo Android, PC ou Android TV.
+## Introduction
+If you were a fan of **Dooflix**, get ready to discover **Jerkflix APK**, the new name and interface of the platform. Despite the name change, Jerkflix remains a free app that brings movies, series, and shows directly to your Android device, PC, or Android TV.
 
-Com melhorias no streaming, menos bugs e uma nova interface, o Jerkflix promete uma experiência de entretenimento mais fluida e prática.
-
----
-
-## Recursos do Jerkflix APK
-| **Recurso**                    | **Descrição**                                                                                   |
-|--------------------------------|-----------------------------------------------------------------------------------------------|
-| **Filmes, Séries e Shows Grátis** | Acesse uma biblioteca completa de conteúdo sem custos.                                         |
-| **Interface Amigável**         | Design intuitivo e organizado para facilitar a navegação.                                      |
-| **Atualizações Regulares**     | Novos conteúdos e melhorias frequentes para manter o app interessante e funcional.             |
-| **Streaming em Alta Qualidade**| Transmissões em HD, com o mínimo de buffer, dependendo da conexão.                            |
-| **Navegação Simples**          | Menus organizados e categorizados como “Lançamentos” e “Mais Populares.”                      |
+With improvements in streaming, fewer bugs, and a new interface, Jerkflix promises a smoother and more convenient entertainment experience.
 
 ---
 
-## Interface do Jerkflix APK
-O Jerkflix apresenta uma interface redesenhada, com categorias organizadas e recomendações personalizadas baseadas no histórico de visualizações. Agora, encontrar filmes ou séries ficou mais rápido e intuitivo.
+## Jerkflix APK Features
+| **Feature**                     | **Description**                                                                                   |
+|----------------------------------|---------------------------------------------------------------------------------------------------|
+| **Free Movies, Series, and Shows** | Access a complete library of content at no cost.                                                   |
+| **User-Friendly Interface**      | Intuitive and organized design to make navigation easier.                                          |
+| **Regular Updates**              | New content and frequent improvements to keep the app interesting and functional.                 |
+| **High-Quality Streaming**      | HD streaming with minimal buffering, depending on your connection.                               |
+| **Simple Navigation**           | Organized menus and categories such as "New Releases" and "Most Popular."                          |
 
 ---
 
-## Como Baixar e Instalar o Jerkflix APK
-### **Instalação no Android**
-1. Acesse um site confiável e baixe o arquivo APK.
-2. Ative a opção "Instalar de Fontes Desconhecidas" nas configurações do dispositivo.
-3. Abra o arquivo APK baixado e clique em **Instalar**.
-4. Após a instalação, abra o aplicativo e comece a assistir.
-
-### **Instalação no PC**
-1. Baixe um emulador Android, como Bluestacks.
-2. Faça login no emulador com sua conta do Google.
-3. Arraste o arquivo APK do Jerkflix para o emulador e instale.
-4. Abra o aplicativo pelo emulador e comece a explorar o conteúdo.
-
-### **Instalação na Android TV**
-1. Baixe o APK diretamente na Android TV, usando um navegador.
-2. Vá em Configurações > Segurança e ative "Fontes Desconhecidas."
-3. Instale o APK e aguarde a finalização.
-4. Abra o Jerkflix na TV e aproveite seus filmes e séries favoritos.
+## Jerkflix APK Interface
+Jerkflix features a redesigned interface with organized categories and personalized recommendations based on your viewing history. Now, finding movies or series is faster and more intuitive.
 
 ---
 
-## Opiniões dos Usuários
-| **Usuário**         | **Comentário**                                                                                |
-|---------------------|---------------------------------------------------------------------------------------------|
-| **Mariana A.**      | "Adorei a interface nova! Fácil de usar e com filmes incríveis. Funciona super bem no meu celular." |
-| **Luís O.**         | "Streaming rápido e sem travamentos. Melhor app para assistir séries grátis."                |
-| **João C.**         | "Algumas categorias poderiam ter mais opções, mas no geral é ótimo e funciona bem na Android TV." |
+## How to Download and Install Jerkflix APK
+### **Installation on Android**
+1. Visit a trusted website and download the APK file.
+2. Enable the "Install from Unknown Sources" option in your device settings.
+3. Open the downloaded APK file and click **Install**.
+4. After installation, open the app and start watching.
+
+### **Installation on PC**
+1. Download an Android emulator, such as Bluestacks.
+2. Log into the emulator with your Google account.
+3. Drag the Jerkflix APK file into the emulator and install it.
+4. Open the app via the emulator and start exploring the content.
+
+### **Installation on Android TV**
+1. Download the APK directly on your Android TV using a browser.
+2. Go to Settings > Security and enable "Unknown Sources."
+3. Install the APK and wait for it to complete.
+4. Open Jerkflix on your TV and enjoy your favorite movies and shows.
 
 ---
 
-## Conclusão
-O **Jerkflix APK** é a solução perfeita para quem busca entretenimento gratuito e de qualidade. Com uma interface redesenhada, atualizações frequentes e compatibilidade com vários dispositivos, ele oferece uma experiência completa para amantes de filmes e séries.
-
-Baixe o Jerkflix APK agora mesmo e transforme seus fins de semana em verdadeiros maratonas de entretenimento, sem gastar um centavo!
+## User Reviews
+| **User**           | **Comment**                                                                                      |
+|--------------------|--------------------------------------------------------------------------------------------------|
+| **Mariana A.**     | "I love the new interface! Easy to use and with amazing movies. Works great on my phone."         |
+| **Luís O.**        | "Fast streaming and no buffering. The best app to watch free series."                            |
+| **João C.**        | "Some categories could have more options, but overall it’s great and works well on Android TV."   |
 
 ---
+
+## Conclusion
+The **Jerkflix APK** is the perfect solution for those looking for free and high-quality entertainment. With a redesigned interface, frequent updates, and compatibility with multiple devices, it provides a complete experience for movie and series lovers.
+
+Download the Jerkflix APK now and turn your weekends into true entertainment marathons, without spending a penny!
